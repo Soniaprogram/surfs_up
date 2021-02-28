@@ -10,9 +10,15 @@ I am planning to open a Surf and Shake shop in Oahu. W. Avy, a potential investo
 
 Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June. I then converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics.
 
+![img1](https://github.com/Soniaprogram/surfs_up/blob/main/images/del1.PNG)
 
+***Summary Statistics for June Temperatures***
 
 Deliverable 2: Determine the Summary Statistics for December
+
+![img2](https://github.com/Soniaprogram/surfs_up/blob/main/images/del2.PNG)
+
+***Summary Statistics for December Temperatures***
 
 Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. I then converted those temperatures to a list, created a DataFrame from the list, and generated the summary statistics.
 
