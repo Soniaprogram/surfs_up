@@ -40,3 +40,5 @@ Provide a high-level summary of the results and two additional queries that you 
 The mean temperatures in June and December are in the 70s implying sustainability for the surf and ice cream shop. The minimum temperatures are on the lower side, however, due to 75% of the temperature readings being in the 70s, this implies predominantly warm weather. 
 
 In summary, based on the temperatures in June and December over all the years, it seems promising that the business would be sustainable all year-round. It would be beneficial to query precipitation in June and December as well to see how rainy it gets. The precipitation queries are as shown:
+![img3](https://github.com/Soniaprogram/surfs_up/blob/main/images/juneprcp.PNG)
+![img4](https://github.com/Soniaprogram/surfs_up/blob/main/images/decprcp.PNG)
