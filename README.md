@@ -14,7 +14,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date 
 
 ***Summary Statistics for June Temperatures***
 
-Deliverable 2: Determine the Summary Statistics for December
+#### Deliverable 2: Determine the Summary Statistics for December
 
 ![img2](https://github.com/Soniaprogram/surfs_up/blob/main/images/del2.PNG)
 
@@ -25,8 +25,11 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date 
 ## Results:
 
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-- 
+- The mean temperature in June is 74.9 degrees Farhenheit which is relatively warm, indicating that the business would be sustainable in this month
+- The mean temperature in December is 71.0 degrees Farhenheit which is also warm, indicating that the business would be sustainable in this month
+- The min temperature for June was 64 and the min for December was 56. These are slightly chilly, however, still within the range of what would be considered sustainable.
 
 ## Summary:
 
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+In summary, based on the temperatures in June and December over all the years, it seems promising that the business would be sustainable all year-round. It would be beneficial to query precipitation in June and December as well to see how rainy it gets. It would also be advantageous to 
